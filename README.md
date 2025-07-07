@@ -67,7 +67,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/breast-cancer-classification.git
+git clone https://github.com/Vishal-Msh-02/breast-cancer-classification.git
 cd breast-cancer-classification/breast_cancer_app
 Install dependencies:
 
